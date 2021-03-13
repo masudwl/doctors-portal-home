@@ -1,0 +1,17 @@
+
+.footer_area{padding-top: 60px;
+background: url(../../../images/Mask\ Group\ 2.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.footer-info h4{color: #7cc7c1; margin-bottom: 20px;}
+ul{margin: 0; padding: 0;}
+ul li{list-style: none; margin-bottom: 10px;}
+ul li a{display: block; text-decoration: none; color: #3a4256;}
+
+.footer_area h4{color: #7cc7c1;}
+.social-icons span{display: inline-block; margin-right: 20px; margin-top: 20px; margin-bottom: 30px; height: 40px; width: 40px; border-radius: 50%; background: #7cc7c1; text-align: center; padding: 8px; color: #fff;}
+
+
+

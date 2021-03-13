@@ -1,0 +1,8 @@
+.header-area{height: 700px; position: relative;
+background-image: url(../../../images/Mask\ Group\ 2.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: top center;
+}
+
+.header-area::after{content: ''; position: absolute; right: 0; top: 0; height: 700px; width: 30%; background-color: #3a4256; z-index: -1;}
